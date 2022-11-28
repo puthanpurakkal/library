@@ -1,0 +1,14 @@
+div{
+    width: -50%;
+    /* background-color: red; */
+    color: white;
+    float: left;
+    padding: 1px;
+    margin-left: 30px;
+    border: solid 2px blue;
+}
+img{
+    width: 13%;
+    height: 250px;
+    border-radius: -1px;
+}
